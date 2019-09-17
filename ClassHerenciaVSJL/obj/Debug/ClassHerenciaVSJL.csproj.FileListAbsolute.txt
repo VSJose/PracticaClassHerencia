@@ -1,0 +1,9 @@
+c:\users\tofu\documents\visual studio 2015\Projects\ClassHerenciaVSJL\ClassHerenciaVSJL\bin\Debug\ClassHerenciaVSJL.exe.config
+c:\users\tofu\documents\visual studio 2015\Projects\ClassHerenciaVSJL\ClassHerenciaVSJL\bin\Debug\ClassHerenciaVSJL.exe
+c:\users\tofu\documents\visual studio 2015\Projects\ClassHerenciaVSJL\ClassHerenciaVSJL\bin\Debug\ClassHerenciaVSJL.pdb
+c:\users\tofu\documents\visual studio 2015\Projects\ClassHerenciaVSJL\ClassHerenciaVSJL\obj\Debug\ClassHerenciaVSJL.csprojResolveAssemblyReference.cache
+c:\users\tofu\documents\visual studio 2015\Projects\ClassHerenciaVSJL\ClassHerenciaVSJL\obj\Debug\ClassHerenciaVSJL.Properties.Resources.resources
+c:\users\tofu\documents\visual studio 2015\Projects\ClassHerenciaVSJL\ClassHerenciaVSJL\obj\Debug\ClassHerenciaVSJL.csproj.GenerateResource.Cache
+c:\users\tofu\documents\visual studio 2015\Projects\ClassHerenciaVSJL\ClassHerenciaVSJL\obj\Debug\ClassHerenciaVSJL.exe
+c:\users\tofu\documents\visual studio 2015\Projects\ClassHerenciaVSJL\ClassHerenciaVSJL\obj\Debug\ClassHerenciaVSJL.pdb
+c:\users\tofu\documents\visual studio 2015\Projects\ClassHerenciaVSJL\ClassHerenciaVSJL\obj\Debug\ClassHerenciaVSJL.Presentacion.frmPrincipal.resources
